@@ -1,0 +1,10 @@
+name: seacr_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.7
+  - samtools
+  - bedtools
+  - r-essentials
+  - bioconductor-seacr

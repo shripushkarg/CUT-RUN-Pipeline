@@ -1,0 +1,17 @@
+name: cutrun
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - trim-galore
+  - fastqc
+  - bowtie2
+  - samtools
+  - picard
+  - bedtools
+  - ucsc-bedgraphtobigwig
+  - macs2
+  - deeptools
+  - multiqc

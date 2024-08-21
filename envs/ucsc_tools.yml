@@ -1,0 +1,8 @@
+name: ucsc_tools
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - ucsc-bedgraphtobigwig
+  - ucsc-bigwigtobedgraph
